@@ -19,7 +19,7 @@ This is a project for a task management app that is fully responsive and cross c
  https://github.com/qudusyusuf720/Niyo-Group-Assessment
    ```
    ```bash
-  cd contact-mgt-app
+  cd tasks-mgt-app
    ```
   
 
