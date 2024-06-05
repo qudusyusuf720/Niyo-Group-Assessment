@@ -1,7 +1,12 @@
 # Screenshoots
 
-<img src="./screens/signin.png"> 
-<img src="./screens/signup.png"> 
+![Screenshot 2024-05-03 180024](https://github.com/qudusyusuf720/Niyo-Group-Assessment/assets/140284271/177b01f9-b76a-4393-9a92-5a9379b4896a)
+![Screenshot 2024-05-03 175506](https://github.com/qudusyusuf720/Niyo-Group-Assessment/assets/140284271/d8c5efeb-635c-4eae-8382-c652c186b6aa)
+![Screenshot 2024-05-03 175624](https://github.com/qudusyusuf720/Niyo-Group-Assessment/assets/140284271/fde638f6-3c42-43ed-b1c4-06fe7cbc4051)
+![Screenshot 2024-05-03 175709](https://github.com/qudusyusuf720/Niyo-Group-Assessment/assets/140284271/9d80a6d1-0830-49a4-8551-944aaaeaff13)
+![Screenshot 2024-05-03 175722](https://github.com/qudusyusuf720/Niyo-Group-Assessment/assets/140284271/5b7618c0-8ab9-4bab-886e-5c448416e6d4)
+![Screenshot 2024-05-03 175819](https://github.com/qudusyusuf720/Niyo-Group-Assessment/assets/140284271/de033e3d-c3c5-44cf-966c-c8684a9c4190)
+
 
 
 ## Why does this repository exist?
